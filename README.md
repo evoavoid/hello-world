@@ -1,2 +1,3 @@
 # hello-world
-1st repository, learning github
+Only learning purposes
+evoavoid available for u.
